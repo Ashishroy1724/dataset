@@ -1,0 +1,11 @@
+ID,Age,Income,City,Purchase
+1,25,50000,New York,Yes
+2,30,60000,Los Angeles,No
+3,22,40000,Chicago,Yes
+4,NaN,70000,New York,No
+5,45,NaN,San Francisco,Yes
+6,35,65000,Chicago,No
+7,28,55000,Los Angeles,Yes
+8,40,72000,San Francisco,No
+9,50,80000,New York,Yes
+10,33,62000,Chicago,No
