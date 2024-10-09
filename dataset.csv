@@ -1,0 +1,11 @@
+mail_Length_bin,Contains_Link,Spam_Words_bin
+short,1,high_spam
+long,0,low_spam
+short,1,high_spam
+long,0,low_spam
+short,1,low_spam
+short,0,low_spam
+long,1,high_spam
+short,0,low_spam
+long,1,high_spam
+long,0,low_spam
